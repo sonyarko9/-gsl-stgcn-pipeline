@@ -1,0 +1,20 @@
+{
+  "source_text": "Explained on algorithm giving 15 examples",
+  "preprocessed_text": "explained on algorithm giving 15 examples",
+  "glosses": [
+    "ALGORITHM",
+    "EXAMPLE",
+    "FSEXPLAINED",
+    "FSGIVING",
+    "FS15"
+  ],
+  "deterministic_count": 2,
+  "cache_count": 0,
+  "fallback_count": 3,
+  "unmapped_words": [
+    "explained",
+    "giving",
+    "15"
+  ],
+  "timestamp": "2026-05-31T15:26:43.053566"
+}

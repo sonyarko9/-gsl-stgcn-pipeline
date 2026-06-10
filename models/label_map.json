@@ -1,0 +1,7 @@
+{
+  "ALGORITHM": 0,
+  "ARRAY": 1,
+  "FUNCTION": 2,
+  "LOOP": 3,
+  "VARIABLE": 4
+}
